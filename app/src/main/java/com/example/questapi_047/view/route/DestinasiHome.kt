@@ -1,4 +1,4 @@
-package com.example.questapi_047.uicontroller.route
+package com.example.questapi_047.view.route
 
 import com.example.questapi_047.R
 
