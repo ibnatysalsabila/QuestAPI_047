@@ -11,6 +11,7 @@
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c97c1fa4-dabc-490d-a026-557f836e0a4d" />
 
 -- DETAIL,EDIT,DELETE --
+
 5. Hasil Tampilan Detail Siswa
    <img width="1920" height="1080" alt="detailsspam" src="https://github.com/user-attachments/assets/ff6f213a-948c-4cea-9a4c-09d787a56e69" />
 
